@@ -1,0 +1,26 @@
+{
+    "name" : "net-tools/js-qr-scanner",
+	
+    "description" : "Composer library for scanning QRCodes from Javascript and onboard camera",
+	
+	"type": "library",
+	
+	"require" : {
+	},
+	
+    "license" : "MIT",
+
+    "authors": [
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
+        },
+		
+		{
+			"name": "nimiq/qr-scanner",
+            "role": "Developer"
+		}
+    ]
+
+}
